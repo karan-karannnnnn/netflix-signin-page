@@ -1,0 +1,57 @@
+
+
+
+.header-logo{
+    height: 100px;
+    width: 270px;
+}
+
+.header-right{
+      display: flex;
+    justify-content: flex-end; 
+   
+}
+
+.signin-button{
+    background-color: orangered;
+}
+
+#a{
+    color: white;
+    font-size: 50px;
+}
+
+#b{
+    color: white;
+}
+
+#c{
+    color: white;
+}
+
+.mid-section-heading1{
+    display: flex; 
+    justify-content: center;
+}
+
+.mid-section-heading2{
+    display: flex; 
+    justify-content: center;
+    margin-top: -100px;
+}
+
+.mid-section-heading3{
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+
+    display: flex;
+    justify-content: center;
+    
+}
+.footer-button{
+   background-color: orangered;
+   color: white;
+}
